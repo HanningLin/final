@@ -23,7 +23,7 @@
 ### 2.结果展示与分析
 -------------------------
 #### test1：
-![enter image description here](capturepic/test1_1.png)
+![enter image description here](capturepic/test1_!.png)
 ![enter image description here](capturepic/test1_2.png)
 - 对Canny 的霍夫变换minLineLength为10，maxLineGap为20
 - 对Sobel处理后的霍夫变换minLineLength为200，maxLineGap为1
